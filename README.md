@@ -24,10 +24,10 @@ $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
-$ git clone https://github.com/Al-Vino/cracking6
+$ git clone https://github.com/daclik7/cracking6
 $ ls ( L kecil )
 $ cd cracking6
-$ python mom.py
+$ python coli.py
 ```
 ## Cara Update
 ```php
